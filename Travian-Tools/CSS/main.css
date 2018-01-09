@@ -1,0 +1,141 @@
+body{
+	background-color:#dbeef4;
+	margin:0px;
+	font-family: verdana, georgia, serif;
+	font-size: 14px;
+	
+	/*body margin properties*/
+	margin-top: 0.5%;
+	margin-right: 2%;
+	margin-left: 2%;	
+	margin-bottom: 2%;
+}
+
+/* ==================== Header of the page - image or title ================ */
+#header{ 
+	background-color:#6cb9d2;
+	height:100px;
+	border-radius:5px;
+    box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);
+}
+
+#header h1{
+	color: white;
+	font-size: 2em;
+	text-align: center;
+	padding-top: 1.9%;
+}
+
+/* ================== footer section of the page - contact Us or ad ============== */
+#footer{
+	background-color:#6cb9d2;	
+	height:70px;
+	border-radius:5px;	
+	clear:both;
+    box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);
+}
+
+/* ======================= content panel ================================== */
+.contentRegular{
+	background-color:#add9e7;
+	margin-top:0.5%;
+	margin-left:17%;
+	margin-bottom:0.7%;
+	padding: 20px;
+	font-size:1.1em;
+	border-radius:5px;
+    box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);
+}
+
+.contentFull{
+	background-color:#add9e7;
+	margin-top:0.5%;
+	margin-left:0%;
+	margin-bottom:0.7%;
+	padding: 20px;
+	font-size:1.1em;
+	border-radius:5px;
+    box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);
+}
+
+/* ===============HEADINGS SECTION ================*/
+h1{
+	font-size: 1.75em;
+}
+
+h2{
+	font-size: 1.5em;
+}
+
+h3{
+	font-size: 1.25em;
+}
+
+/* =========================== finders card ======================= */
+#finders{ 
+	background-color:#add9e7;
+	height:100%;
+	margin-top:0.5%;
+	margin-left:17%;
+	margin-bottom:0.7%;
+	padding: 10px;
+	font-size:1.1em;
+	border-radius:5px;
+    box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);
+    text-align: center;
+}
+
+#finder h3{
+	color: white;
+	font-size:1.25em;
+}
+
+/* ======================= Form Buttons ==================================== */
+button{
+	background-color: #4aa9c8;
+	border: 1px solid white;
+	border-radius: 5px;
+	font: bold 15px Helvetica;
+	line-height: 28px;
+	padding: 2px 20px;
+	text-align: center;
+	box-sizing: border-box;
+	text-decoration: none;
+	cursor: pointer;
+	margin-right:10px;
+	width:175px;
+	color: white;
+	box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);
+}
+
+/* ============================== Buttons class for Select Servers =========================== */
+
+.serverBtn{
+	background-color:#4aa9c8;
+	border: 1px solid white;
+	font: bold 15px Helvetica;
+	border-radius:5px;
+	line-height: 28px;
+	padding: 2px 20px;
+	text-align: center;
+	margin-right:10px;
+	box-sizing: border-box;
+	box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);
+}
+
+.serverBtn ul {
+	padding:0;
+	list-style-type:none;	
+	background-color:#add9e7;
+}
+
+.serverBtn ul li{
+	display:inline;
+}
+
+.serverBtn ul li a{
+	color: white;
+	text-decoration: none;
+	float:left;
+}
+
