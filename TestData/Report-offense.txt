@@ -1,0 +1,140 @@
+
+
+    99+
+     
+
+Gold 778
+Silver 674
+
+    Profile
+    Options
+    Forum
+    Help
+    Logout
+
+Teutons Barca
+in home village in home village
+Health
+ 
+Experience
+ 
+1776
+
+Link list
+
+    Farm list
+    Top 10
+    Celebrations
+    Scouts
+    Kirilloid
+    Artifacts
+    Def/m8n89r50y9
+    yellow scouts
+    green scouts
+
+    ‭251,800‬
+    Production bonus for lumber 532
+    Production bonus for clay 531
+    Production bonus for iron 532
+    ‭400,000‬
+    Production bonus for crop 57,446
+    ‭41,143‬
+     
+
+ 
+ 
+Reports
+All
+Offensive
+Defensive
+Scouting
+Other
+Archive
+Surrounding
+02 Barcelona attacks 01 Syrup
+19/02/06, 08:00:21
+Attacker
+Attacker
+Attacker with ‭‭100‬%‬ lossesAttacker with ‭‭100‬%‬ losses
+[1776] Barca from village 02 Barcelona
+	Clubswinger	Spearman	Axeman	Scout	Paladin	Teutonic Knight	Ram	Catapult	Chief	Settler	Hero
+	24000	0	0	0	0	5120	250	55	0	0	1
+	24000	0	0	0	0	5120	250	55	0	0	1
+Information	City WallCity Wall damaged from level 20 to level 15
+	Grain MillGrain Mill damaged from level 5 to level 3
+	BakeryBakery damaged from level 5 to level 3
+Bounty	
+0
+0
+0
+0
+carry‭‭0‬/‭0‬‬
+Defender
+Defender
+Defender with losses
+[Cereals] Pancakes from village 01 Syrup
+	Legionnaire	Praetorian	Imperian	Equites Legati	Equites Imperatoris	Equites Caesaris	Battering Ram	Fire Catapult	Senator	Settler	Hero
+	1000	20655	0	1230	0	0	0	0	0	0	1
+	557	11506	0	685	0	0	0	0	0	0	0
+Defender
+Defender
+Reinforcement
+	Clubswinger	Spearman	Axeman	Scout	Paladin	Teutonic Knight	Ram	Catapult	Chief	Settler	Hero
+	0	4400	0	0	0	0	0	0	0	0	0
+	0	2451	0	0	0	0	0	0	0	0	0
+Defender
+Defender
+Reinforcement
+	Phalanx	Swordsman	Pathfinder	Theutates Thunder	Druidrider	Haeduan	Ram	Trebuchet	Chieftain	Settler	Hero
+	5885	0	0	0	0	0	0	0	0	0	0
+	3278	0	0	0	0	0	0	0	0	0	0
+Statistics
+	Attacker 	Defender
+Combat strength 	
+‭2,557,103‬
+	
+‭3,934,269‬
+Supply before 	
+‭40,446‬
+	
+‭34,406‬
+Supply lost 	
+‭40,446‬	
+‭19,163‬
+Resources lost 	
+‭14,389,800‬
+	
+‭7,628,410‬
+ 
+02 Barcelona
+Loyalty: ‭‭100‬%‬
+‭‭10‬/‭10‬‬
+Villages
+ 
+
+    01 Thunderbolt
+    ‭(‭4‬|‭−‭46‬‬)‬
+    02 Barcelona
+    ‭(‭75‬|‭−‭137‬‬)‬
+    03 Gaul
+    ‭(‭76‬|‭−‭136‬‬)‬
+    04 Gaul
+    ‭(‭74‬|‭−‭137‬‬)‬
+    05 Gaul
+    ‭(‭76‬|‭−‭137‬‬)‬
+    06 Gaul
+    ‭(‭75‬|‭−‭138‬‬)‬
+    07 Gaul
+    ‭(‭77‬|‭−‭135‬‬)‬
+    08 Gaul
+    ‭(‭77‬|‭−‭134‬‬)‬
+    09 Gaul
+    ‭(‭72‬|‭−‭136‬‬)‬
+    10 Gaul
+    ‭(‭78‬|‭−‭138‬‬)‬
+
+Daily quests
+Homepage Forum Links FAQ - Answers Game rules Terms Imprint
+
+© 2004 - 2019 Travian Games GmbH
+Local time:  21:54:27
