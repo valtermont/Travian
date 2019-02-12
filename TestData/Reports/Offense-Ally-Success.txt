@@ -1,0 +1,122 @@
+
+
+    99+
+     
+
+Gold 740
+Silver 1162
+
+    Profile
+    Options
+    Forum
+    Help
+    Logout
+
+Teutons Barca
+in home village in home village
+Health
+ 
+Experience
+ 
+1776
+
+Link list
+
+    Farm list
+    Top 10
+    Celebrations
+    Scouts
+    Kirilloid
+    Artifacts
+    Def/m8n89r50y9
+    yellow scouts
+    green scouts
+
+    ‭251,800‬
+    Production bonus for lumber 9,862
+    Production bonus for clay 3,559
+    Production bonus for iron 3,559
+    ‭400,000‬
+    Production bonus for crop 55,832
+    ‭41,143‬
+     
+
+ 
+ 
+Reports
+All
+Offensive
+Defensive
+Scouting
+Other
+Archive
+Surrounding
+Greed attacks not today
+19/02/12, 11:35:48
+Attacker
+Attacker
+Attacker with lossesEmpty loot bag
+[1776] Skitime from village Greed
+	Clubswinger	Spearman	Axeman	Scout	Paladin	Teutonic Knight	Ram	Catapult	Chief	Settler	Hero
+	80	0	0	0	0	0	0	0	1	0	0
+	1	0	0	0	0	0	0	0	0	0	0
+Information	Chief Loyalty lowered from 9 to 0.
+	Chief The inhabitants of not today decided to join your empire.
+Defender
+Defender
+Defender with no losses
+[The Bad] Greeno from village not today
+	Clubswinger	Spearman	Axeman	Scout	Paladin	Teutonic Knight	Ram	Catapult	Chief	Settler	Hero
+	0	0	0	0	0	0	0	0	0	0	0
+	0	0	0	0	0	0	0	0	0	0	0
+Statistics
+	Attacker 	Defender
+Combat strength 	
+‭2,480‬
+	
+‭124‬
+Supply before 	
+‭84‬
+	
+‭0‬
+Supply lost 	
+‭1‬
+	
+‭0‬
+Resources lost 	
+‭250‬
+	
+‭0‬
+ 
+02 Barcelona
+Loyalty: ‭‭100‬%‬
+‭‭10‬/‭10‬‬
+Villages
+ 
+
+    01 Thunderbolt
+    ‭(‭4‬|‭−‭46‬‬)‬
+    02 Barcelona
+    ‭(‭75‬|‭−‭137‬‬)‬
+    03 Gaul
+    ‭(‭76‬|‭−‭136‬‬)‬
+    04 Gaul
+    ‭(‭74‬|‭−‭137‬‬)‬
+    05 Gaul
+    ‭(‭76‬|‭−‭137‬‬)‬
+    06 Gaul
+    ‭(‭75‬|‭−‭138‬‬)‬
+    07 Gaul
+    ‭(‭77‬|‭−‭135‬‬)‬
+    08 Gaul
+    ‭(‭77‬|‭−‭134‬‬)‬
+    09 Gaul
+    ‭(‭72‬|‭−‭136‬‬)‬
+    10 Gaul
+    ‭(‭78‬|‭−‭138‬‬)‬
+
+Daily quests
+Homepage Forum Links FAQ - Answers Game rules Terms Imprint
+
+© 2004 - 2019 Travian Games GmbH
+Local time:  11:56:04
