@@ -63,6 +63,7 @@ Attacker with lossesHalf-full loot bag
 Information	Earth WallEarth Wall damaged from level 11 to level 3
 	Iron FoundryIron Foundry destroyed
 	AcademyAcademy damaged from level 20 to level 2
+	
 Bounty	
 78
 107
